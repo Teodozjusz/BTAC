@@ -1,0 +1,25 @@
+GridPane {
+	-fx-background: #e6e6e6;
+}
+
+Button {
+	-fx-background-color: #e6e6e6;
+	-fx-border-radius: 10px;
+	-fx-border-color: #367BF0;
+	-fx-text-fill: #000000;
+	-fx-padding: 10px 20px;
+
+}
+
+TextField {
+	-fx-background-color: #e6e6e6;
+	-fx-border-radius: 10px;
+	-fx-border-color: #367BF0;
+
+	-fx-text-fill: #000000;
+	-fx-padding: 10px;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+
+}
+
